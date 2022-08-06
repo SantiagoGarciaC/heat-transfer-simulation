@@ -10,7 +10,7 @@ Jaith Alfonso Agamez Parias.
 ## Universidad
 Universidad de Antioquia 
 
-# Facultad
+## Facultad
 Facultad de Ingenieria. 
 Departamento de Ingeniería Mecánica.
 # Simulación de una pieza al entrar a un horno
@@ -25,10 +25,10 @@ Los resultados de está simulación y la solución de preguntas propuesta está 
 También se anexaron unos videos donde se observa la simulación del mapa de calor para los dos problemas propuestos.
 
 ## Datos
-Pieza #3.
-a = 100 [cm].
-L = 10 [m] Longitud del horno.
-h = 150 [W/m^2-K]  Coeficiente de convección.
+### Pieza #3.
+### a = 100 [cm].
+### L = 10 [m] Longitud del horno.
+### h = 150 [W/m^2-K]  Coeficiente de convección.
 
 
 
