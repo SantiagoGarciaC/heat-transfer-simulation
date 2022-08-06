@@ -1,5 +1,4 @@
-# Proyecto de transferencia de calor
-
+# Trabajo de Transferencia de Calor
 ## Autor
 Santiago García Castrillón
 
