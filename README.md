@@ -18,7 +18,7 @@ Departamento de Ingeniería Mecánica.
 ## Explicación del problema
 Este ejercicio será la simulación de la variación de la temperatura de cada nodo de una pieza al entrar a un horno. Para realizar esta simulación se utilizaron las ecuaciones de trasnferencia de calor respectivas al modo de transferencia de calor, por ejemplo conducción, convección y radiación. Esta simulación se implementó en Python utilizando la librería Seaborn, especificamente utilizando los mapas de calor interactivos. 
 
-El problema se describe completamente en el archivo Trabajo_de_metodos_numericos_2021-2.pdf.
+El problema se describe completamente <aquí href="https://github.com/SantiagoGarciaC/heat-transfer-simulation/blob/main/Trabajo_de_metodos_numericos_2021-2.pdf"> here</aquí>.
 Los datos respectivos a la solución de este problema son los asociados al documentos 1152469548.
 Las ecuaciones que implementamos en Python y el procedimiento que se realizó para cada nodo esta disponible en el archivo Procedimiento.pdf.
 Los resultados de está simulación y la solución de preguntas propuesta está en el archivo Resultados.pdf.
