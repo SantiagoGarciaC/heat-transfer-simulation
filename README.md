@@ -16,7 +16,7 @@ Facultad de Ingenieria
 
 Departamento de Ingeniería Mecánica
 # Simulación de una pieza al entrar a un horno
-
+![imagen](image.png)
 ## Explicación del problema
 Este ejercicio será la simulación del aumento de la temperatura de cada nodo de una pieza al entrar a un horno. Para realizar esta simulación se utilizaron las ecuaciones de transferencia de calor respectivas al modo de transferencia de calor, por ejemplo conducción, convección y radiación. Esta simulación se implementó en Python utilizando la librería Seaborn, especificamente utilizando los mapas de calor interactivos. 
 
