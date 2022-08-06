@@ -4,13 +4,15 @@
 Santiago García Castrillón
 
 ## Profesores
-Andrés Felipe Colorado Granda. Jaith Alfonso Agamez Parias.
+Andrés Felipe Colorado Granda.
+Jaith Alfonso Agamez Parias.
 
 ## Universidad
 Universidad de Antioquia 
 
-#Facultad
-Facultad de Ingenieria. Departamento de Ingeniería Mecánica
+# Facultad
+Facultad de Ingenieria. 
+Departamento de Ingeniería Mecánica.
 # Simulación de una pieza al entrar a un horno
 
 ## Explicación del problema
